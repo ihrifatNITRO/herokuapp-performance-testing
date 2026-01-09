@@ -1,4 +1,4 @@
-# herokuapp-performance-testing
+# Herokuapp Performance Testing
 
 ## Project Summary
 This project involves comprehensive performance testing of the **Booking API** on Herokuapp to evaluate system stability under normal load and identify breaking points under extreme stress. The testing was conducted using Apache JMeter, focusing on Throughput (Requests Per Second) and Error Rates.
